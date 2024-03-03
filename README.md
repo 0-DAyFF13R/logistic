@@ -1,1 +1,1 @@
-Site: https://daffiersquare2.github.io/logistic/
+Site: https://0-dayff13r.github.io/logistic/
